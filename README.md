@@ -1,24 +1,22 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Naman Vijay 
+    Hey there, I am Naman Vijay 
 </h1>
-
-Strong in design and integration with intuitive problem-solving
-skills.
-Passionate about implementing and launching new projects.
-Ability to translate business requirements into technical solutions.
-I am a Junior @Geu pursuing Computer Science and
-Engineering.
+<h4 align="center">
+A passionate Problem solver with keen interest in development , currently pursuing my Bachelor of technoloy in Computer Science. 
+    </h4>
 <hr>
 
 <div align="center">
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naman-vijay-574758200/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:namanvijay814@gmail.com) [![Years Badge](https://badges.pufler.dev/years/Naman814?style=for-the-badge)](https://github.com/Naman814) [![Repos Badge](https://badges.pufler.dev/repos/Naman814?style=for-the-badge)](https://github.com/Naman814) 
+    
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naman-vijay-574758200/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:namanvijay814@gmail.com)  [![Repos Badge](https://badges.pufler.dev/repos/Naman814?style=for-the-badge)](https://github.com/Naman814) 
     [![Visits Badge](https://badges.pufler.dev/visits/Naman814/Naman814?style=for-the-badge)](https://github.com/Naman814)
 
 <hr>
 
-![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman814&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman814&theme=dracula&layout=compact)
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman814&theme=prussian&count_private=true&show_icons=true&include_all_commits=true)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman814&theme=prussian&layout=compact)
+    
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naman814&theme=prussian&layout=compact)](https://github.com/Naman814/github-readme-streak-stats)
 
  <hr>
 
