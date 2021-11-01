@@ -2,7 +2,7 @@
     Hey there, I am Naman Vijay 
 </h1>
 <h4 align="center">
-A passionate Problem solver with keen interest in development , currently pursuing my Bachelor of technoloy in Computer Science. 
+A passionate Problem solver and tech enthusiast with keen interest in development , currently pursuing my Bachelor of technoloy in Computer Science. 
     </h4>
 <hr>
 
@@ -13,9 +13,9 @@ A passionate Problem solver with keen interest in development , currently pursui
 
 <hr>
 
-<span>![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman814&theme=prussian&count_private=true&show_icons=true&include_all_commits=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Naman814&theme=prussian&count_private=true&show_icons=true&include_all_commits=true) 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naman814&theme=prussian&layout=compact)
- </span>
+
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman814&theme=prussian&layout=compact)
 
 <hr>
