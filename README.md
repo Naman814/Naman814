@@ -1,4 +1,3 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <h1 align="center">
     Hey there, I am Naman Vijay 
 </h1>
