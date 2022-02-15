@@ -2,7 +2,7 @@
     Hey there, I am Naman Vijay 
 </h1>
 <h4 align="center">
-A passionate Problem solver and tech enthusiast with keen interest in development , currently pursuing my Bachelor of technology in Computer Science. 
+A passionate Problem solver and tech enthusiast with keen interest in programming , currently pursuing my Bachelor of technology in Computer Science. 
     </h4>
 <hr>
 
