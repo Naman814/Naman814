@@ -8,8 +8,7 @@ A passionate Problem solver and tech enthusiast with keen interest in programmin
 
 <div align="center">
     
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naman-vijay-574758200/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:namanvijay814@gmail.com)  [![Repos Badge](https://badges.pufler.dev/repos/Naman814?style=for-the-badge)](https://github.com/Naman814) 
-    [![Visits Badge](https://badges.pufler.dev/visits/Naman814/Naman814?style=for-the-badge)](https://github.com/Naman814)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naman-vijay-574758200/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:namanvijay814@gmail.com)  ]
 
 <hr>
 
