@@ -9,6 +9,7 @@ A passionate Problem solver and tech enthusiast with keen interest in programmin
 <div align="center">
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naman-vijay-574758200/) [<img src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:namanvijay814@gmail.com)  
+    ![](https://komarev.com/ghpvc/?username=Naman814)
 
 <hr>
 
